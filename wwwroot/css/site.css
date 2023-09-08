@@ -21,7 +21,7 @@ body {
   margin-bottom: 60px;
 }
 
-/* site.css */
+/* site.css for home */
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
@@ -40,6 +40,7 @@ body {
 
 h1 {
   color: #333;
+  text-align: center;
 }
 
 p {
@@ -47,5 +48,5 @@ p {
   line-height: 1.5;
   color: #666;
 }
-
+/* End of home */
 /* Add more styles as needed */
