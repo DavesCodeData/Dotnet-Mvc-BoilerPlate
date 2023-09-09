@@ -2,7 +2,7 @@
 
 Right now if you run this it will display the default page.
 
-![WebsiteHomePage](wwwroot/pngs/homescreen.png)
+![WebsiteHomePage](wwwroot/pngs/homepage.png)
 
 # How to run
 
