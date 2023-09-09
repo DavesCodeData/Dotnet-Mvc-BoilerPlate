@@ -2,6 +2,8 @@
 
 Right now if you run this it will display the default page.
 
+![WebsiteHomePage](wwwroot/pngs/homepage.png)
+
 # How to run
 
 Step 1: Install .NET by going to https://dotnet.microsoft.com/download/dotnet
